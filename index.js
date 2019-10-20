@@ -12,3 +12,5 @@ function wrapAdjective(flair='*') {
     return `You are ${flair}${param}${flair}!`
   }
 }
+
+let Calculator = {}
